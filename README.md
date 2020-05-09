@@ -1,4 +1,4 @@
-# IR Project
+# Information Retrieval Final Project
 This is the Final Project for Information Retrieval (CS-5364-001)
 Project Name - Classification of Potential Buyers 
 
